@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 #include <graph.h>
-#include <dos/dos.h>
+#include <dos.h>
 
 
 #include <run.h>
