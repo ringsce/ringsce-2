@@ -1,24 +1,24 @@
 #!/bin/bash
 
 echo "building iso source code"
-echo "choose one of the options?"
 read options
+echo "choose one of the $options?"
 
 case options in
 
-  PATTERN_1)
-    STATEMENTS
+  build-iso)
+    echo -n  "build-iso"
     ;;
 
-  PATTERN_2)
-    STATEMENTS
+  clean-iso)
+    echo -n "clean-iso"
     ;;
 
-  PATTERN_N)
-    STATEMENTS
+  choose-path)
+    echo -n "choose-path"
     ;;
 
   *)
-    STATEMENTS
+    echo -n "Default options"
     ;;
 esac
