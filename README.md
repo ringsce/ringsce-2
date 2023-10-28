@@ -1,8 +1,4 @@
 
-ringsce is an ide for big sur+ (macos 11+). It's being built on top of C++ and swiftUI. We are trying to build all the projects with cmake.
-We hope to deliver ringsce to all users, using XCode or appcode. This is not an appcode replacement. It was there a niche. We are here to exploit it.
-Today, the ide is still in use. There is so much to do.
-
 Donations:
 Click on the sponsor buttons.
 
