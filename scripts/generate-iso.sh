@@ -8,14 +8,17 @@ case options in
 
   build-iso)
     echo -n  "build-iso"
+    build-iso
     ;;
 
   clean-iso)
     echo -n "clean-iso"
+    clean-iso
     ;;
 
   choose-path)
     echo -n "choose-path"
+    choose-path
     ;;
 
   *)
